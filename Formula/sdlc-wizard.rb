@@ -1,8 +1,8 @@
 class SdlcWizard < Formula
   desc "SDLC enforcement for Claude Code - TDD, planning, self-review, CI shepherd"
   homepage "https://github.com/BaseInfinity/agentic-ai-sdlc-wizard"
-  url "https://registry.npmjs.org/agentic-sdlc-wizard/-/agentic-sdlc-wizard-1.24.0.tgz"
-  sha256 "5397f38a23b3212a9e62bceb37b9b5c9d6f13711c2a7cdba5a7259f44ff31d5c"
+  url "https://registry.npmjs.org/agentic-sdlc-wizard/-/agentic-sdlc-wizard-1.28.0.tgz"
+  sha256 "0ef9334722c17caf05a7e45db9f8411b166d202f46af847d93584ba13bd0e8f5"
   license "MIT"
 
   depends_on "node"
